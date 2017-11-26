@@ -1,4 +1,6 @@
 <b>**Show your name(or anything else) instead of Ubuntu Logo when your linux machine boots.**</b><br>
+Works on Debian/Ubuntu and their derivatives.<br>
+Tested on Ubuntu 17.10
 
 Run `install.sh` to install this theme.<br>
 
