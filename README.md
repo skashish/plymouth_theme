@@ -10,9 +10,9 @@ on line 180. `logo_filename = "kashish_logo3_inverted.png";`<br><br>
 
 Tha background color can be updated in lines 169-170 of `ubuntu-logo.script`<br><br>
 <pre>
-`Window.SetBackgroundTopColor (0.10, 0.10, 0.10);    # Nice colour on top of the screen fading to
+Window.SetBackgroundTopColor (0.10, 0.10, 0.10);    # Nice colour on top of the screen fading to
 Window.SetBackgroundBottomColor (0.10, 0.10, 0.10);  # an equally nice colour on the bottom<br>
-`</pre>
+</pre>
 where `(0.10,0.10,0.10)` are the normalized RGB values used to make colors.
 
 
