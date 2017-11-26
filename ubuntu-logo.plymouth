@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Kashish Logo
+Description=A theme that features a blank background with a kashish logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kashish_logo/
+ScriptFile=/usr/share/plymouth/themes/kashish_logo/ubuntu-logo.script
